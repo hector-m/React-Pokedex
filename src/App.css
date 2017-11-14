@@ -1,0 +1,61 @@
+.App {
+    background-color: #D3D3D3;
+    min-height: 100vh;
+}
+
+.Card {
+  border: 5px yellow solid;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+  margin: 1em;
+  background-color: white;
+}
+
+.App-header {
+  background-color: #2F2F2F;
+  height: 150px;
+  padding: 20px;
+  color: black;
+  text-align: center;
+
+}
+
+.Logo {
+  font-family: Impact;
+  color: #ffcb05;
+  float: left;
+  font-size: 50px;
+
+}
+
+.Choices {
+}
+
+.Search {
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  padding: 0 15px;
+
+}
+
+.Title {
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 15px;
+    color: #ffcb05;
+}
+
+.Input {
+    display:inline-block;
+    border-radius: 26px;
+    color: black;
+    padding-left: 10px;
+}
+
+img {
+    height: auto;
+    width: 100%;
+}
